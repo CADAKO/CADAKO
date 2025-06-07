@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CADAKO
-- 👀 I’m interested in board games, woodworking, money, traveling
+- 👀 I’m interested in board games, woodworking, traveling
 - 🌱 I’m currently learning Python, SQL
 - ⚡ Fun fact: Slept on streets in Paris after Footbal championship in 2015
