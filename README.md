@@ -67,9 +67,9 @@ ORDER BY avg_weight DESC;
 
 ### Контакты
 
-Email: CADAKO@gmail.com
-Telegram: @CADAKO
-GitHub: github.com/CADAKO
-Сертификаты о пройденных курсах:
-https://stepik.org/users/507344585/certificates
+- Email: CADAKO@gmail.com
+- Telegram: @CADAKO
+- GitHub: github.com/CADAKO
+- Сертификаты о пройденных курсах:
+  https://stepik.org/users/507344585/certificates
 
